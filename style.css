@@ -1,7 +1,13 @@
 p{
     color:red;
 }
+
 li{
     color: green;
     image-rendering:;
+    justify-content: flex-end;
+}
+
+nav , ul , li {
+    display: inline;
 }
